@@ -47,7 +47,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>price-service</finalName>
+		<finalName>pricemicroservice</finalName>
 	</build>
 
 </project>
